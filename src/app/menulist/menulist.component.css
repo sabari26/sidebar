@@ -1,0 +1,6 @@
+.bg-gradient-primary {
+    background-color: #222 !important;
+    background-image: none !important;
+    background-size: cover;
+}
+.navbar-nav a{color:white !important}
